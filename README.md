@@ -2,6 +2,7 @@
 
 ```js
 const juanoa = {
+  from: 🇪🇸
   code: ['JavaScript', 'HTML', 'CSS', 'PHP'],
   tools: ['React', 'Node', 'Symphony', 'Docker']
 }
