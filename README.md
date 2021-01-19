@@ -13,4 +13,4 @@ const juanoa = {
 - LinkedIn: [/juanoa](http://linkedin.com/in/juanoa/)
 - Mail: juan@juanoa.com
 
-You can find my spanish complete resume at [cv.juanoa.com](https://cv.juanoa.com) ✨
+You can find my complete spanish resume at [cv.juanoa.com](https://cv.juanoa.com) 🇪🇸
