@@ -8,7 +8,7 @@ const juanoa = {
 }
 ```
 
-### You can find me 🌍:
+### 🌍 You can find me:
 - Blog: [juanoa.com](https://www.juanoa.com)
 - Twitter: [/juanoa_](https://twitter.com/juanoa_)
 - LinkedIn: [/juanoa](http://linkedin.com/in/juanoa/)
