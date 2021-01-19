@@ -12,3 +12,5 @@ const juanoa = {
 - Twitter: https://twitter.com/juanoa_
 - LinkedIn: http://linkedin.com/in/juanoa/
 - Mail: juan@juanoa.com
+
+You can find my spanish complete resume at cv.juanoa.com ✨
