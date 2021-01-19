@@ -8,9 +8,9 @@ const juanoa = {
 ```
 
 ### You can find me 🌍:
-- Blog: www.juanoa.com
-- Twitter: https://twitter.com/juanoa_
-- LinkedIn: http://linkedin.com/in/juanoa/
+- Blog: [juanoa.com](https://www.juanoa.com)
+- Twitter: [/juanoa_](https://twitter.com/juanoa_)
+- LinkedIn: [/juanoa](http://linkedin.com/in/juanoa/)
 - Mail: juan@juanoa.com
 
-You can find my spanish complete resume at cv.juanoa.com ✨
+You can find my spanish complete resume at [cv.juanoa.com](https://cv.juanoa.com) ✨
