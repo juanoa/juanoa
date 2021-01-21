@@ -2,8 +2,8 @@
 
 ```js
 const juanoa = {
-  code: [JavaScript, HTML, CSS, PHP],
-  tools: [React, Gatsby, Node, Symphony, Docker, Git]
+  code: ['JavaScript', 'HTML', 'CSS', 'PHP'],
+  tools: ['React', 'Gatsby', 'Node', 'Symphony', 'Docker', 'Git']
 }
 ```
 
