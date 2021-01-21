@@ -2,9 +2,8 @@
 
 ```js
 const juanoa = {
-  from: 🇪🇸,
-  code: ['JavaScript', 'HTML', 'CSS', 'PHP'],
-  tools: ['React', 'Node', 'Symphony', 'Docker']
+  code: [JavaScript, HTML, CSS, PHP],
+  tools: [React, Gatsby, Node, Symphony, Docker, Git]
 }
 ```
 
