@@ -14,6 +14,4 @@ const juanoa = {
 - LinkedIn: [/juanoa](http://linkedin.com/in/juanoa/)
 - Mail: juan@juanoa.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanoa)](https://github.com/anuraghazra/github-readme-stats)
-
 You can check my complete spanish resume at [cv.juanoa.com](https://cv.juanoa.com) 🇪🇸
