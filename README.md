@@ -4,7 +4,8 @@
 ```js
 const juanoa = {
   code: ['JavaScript', 'HTML', 'CSS', 'PHP'],
-  tools: ['React', 'Gatsby', 'Node', 'Symphony', 'Docker', 'Git']
+  frameworks: ['React', 'Gatsby', 'Node', 'Symphony'],
+  tools: ['Docker', 'Git, Mongo']
 }
 ```
 
