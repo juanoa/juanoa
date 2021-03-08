@@ -5,7 +5,7 @@
 const juanoa = {
   code: ['JavaScript', 'HTML', 'CSS', 'PHP'],
   frameworks: ['React', 'Gatsby', 'Node', 'Symphony'],
-  tools: ['Docker', 'Git, Mongo']
+  tools: ['Docker', 'Git', 'Mongo']
 }
 ```
 
