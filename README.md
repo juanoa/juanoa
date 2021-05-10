@@ -15,4 +15,4 @@ const juanoa = {
 - LinkedIn: [/juanoa](http://linkedin.com/in/juanoa/)
 - Mail: juan@juanoa.com
 
-You can check my complete spanish resume at [juanoa.com](https://www.juanoa.com) 🇪🇸
+You can check my complete spanish resume at [juanoa.com](https://www.juanoa.com/en)
