@@ -10,9 +10,9 @@ const juanoa = {
 ```
 
 ### 🌍 You can find me:
-- Blog: [juanoa.com](https://www.juanoa.com)
+- Blog: [juanoa.com/blog](https://www.juanoa.com/blog)
 - Twitter: [@juanoa_](https://twitter.com/juanoa_)
 - LinkedIn: [/juanoa](http://linkedin.com/in/juanoa/)
 - Mail: juan@juanoa.com
 
-You can check my complete spanish resume at [cv.juanoa.com](https://cv.juanoa.com) 🇪🇸
+You can check my complete spanish resume at [juanoa.com](https://www.juanoa.com) 🇪🇸
