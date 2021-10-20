@@ -3,7 +3,7 @@
 
 ```js
 const juanoa = {
-  workingAt: {
+  work: {
     title: 'dev',
     company: 'Inditex',
     since: 'oct. 2021'
