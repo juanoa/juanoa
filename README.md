@@ -3,6 +3,11 @@
 
 ```js
 const juanoa = {
+  workingAt: {
+    title: 'dev',
+    company: 'Inditex',
+    since: 'oct. 2021'
+  },
   code: ['JavaScript', 'HTML', 'CSS', 'PHP'],
   frameworks: ['React', 'Gatsby', 'Node', 'Symphony'],
   tools: ['Docker', 'Git', 'Mongo']
