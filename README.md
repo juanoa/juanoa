@@ -4,7 +4,7 @@
 ```js
 const juanoa = {
   work: {
-    title: 'dev',
+    title: 'Software Engineer',
     company: 'Inditex',
     since: 'oct. 2021'
   },
