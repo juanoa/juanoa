@@ -3,7 +3,7 @@
 
 ```js
 const juanoa = {
-  work: {
+  job: {
     title: 'Software Engineer',
     company: 'Inditex',
     since: 'oct. 2021'
