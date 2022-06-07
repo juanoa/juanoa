@@ -10,7 +10,7 @@ const juanoa = {
   },
   code: ['Java', 'JavaScript', 'HTML', 'CSS', 'PHP'],
   frameworks: ['Spring Boot', 'React', 'Gatsby', 'Node', 'Symphony'],
-  tools: ['Docker', 'Git', 'GitHub', 'Mongo']
+  extra: ['Docker', 'Git', 'GitHub', 'Mongo']
 }
 ```
 
