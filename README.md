@@ -8,9 +8,9 @@ const juanoa = {
     company: 'Inditex',
     since: 'oct. 2021'
   },
-  code: ['Java', 'JavaScript', 'HTML', 'CSS', 'PHP'],
-  frameworks: ['Spring Boot', 'React', 'Gatsby', 'Node', 'Symphony'],
-  extra: ['Docker', 'Git', 'GitHub', 'Mongo']
+  code: ['JavaScript', 'HTML', 'CSS', 'Java'],
+  frameworks: ['React', 'Gatsby', 'Node', 'Spring Boot'],
+  tools: ['Docker', 'Git/Github']
 }
 ```
 
