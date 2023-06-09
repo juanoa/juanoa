@@ -4,11 +4,11 @@
 ```js
 const juanoa = {
   job: {
-    title: 'Software Engineer',
+    title: 'Frontend Engineer',
     company: 'Inditex',
     since: 'oct. 2021'
   },
-  code: ['JavaScript', 'HTML', 'CSS', 'Java'],
+  code: ['JavaScript & TS', 'HTML', 'CSS', 'Java'],
   frameworks: ['React', 'Gatsby', 'Node', 'Spring Boot'],
   tools: ['Docker', 'Git/Github']
 }
