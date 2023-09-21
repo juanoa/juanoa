@@ -10,7 +10,6 @@ const juanoa = {
   },
   code: ['JavaScript & TS', 'HTML', 'CSS'],
   frameworks: ['React', 'Next.JS', 'Astro', 'Node'],
-  tools: ['Docker', 'Git/Github']
 }
 ```
 
