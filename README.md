@@ -14,5 +14,5 @@ const juanoa = {
 ```
 
 ### 🌍 You can find me:
-- Twitter: [@juanoa_](https://twitter.com/juanoa_)
+- X: [@juanoa_](https://x.com/juanoa_)
 - LinkedIn: [/juanoa](http://linkedin.com/in/juanoa/)
