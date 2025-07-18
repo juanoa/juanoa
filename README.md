@@ -15,7 +15,7 @@ const juanoa = {
 
 ## 🧡 My core values
 
-- Feedback loops versus castles in the air
+- Feedback loops versus castles in the sky
 - Not avoiding uncomfortable conversations
 - Active listening
 - Stepping out of the comfort zone
