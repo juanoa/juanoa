@@ -5,8 +5,8 @@
 const juanoa = {
   job: {
     title: 'Frontend Engineer',
-    company: 'Inditex',
-    since: 'oct. 2021'
+    company: 'MITO',
+    since: 'oct. 2025'
   },
   code: ['JavaScript & TS', 'HTML', 'CSS'],
   frameworks: ['React', 'Next.JS', 'Astro', 'Node'],
