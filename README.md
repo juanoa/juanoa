@@ -24,5 +24,6 @@ const juanoa = {
 - Go the extra mile
 
 ## 🌍 You can find me:
+- Web: [juan.md](https://juan.md)
 - X: [@juanoa_](https://x.com/juanoa_)
 - LinkedIn: [/juanoa](http://linkedin.com/in/juanoa/)
