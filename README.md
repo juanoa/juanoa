@@ -8,6 +8,7 @@ const juanoa = {
     company: 'MITO',
     since: 'oct. 2025'
   },
+  previously: ['Inditex'],
   code: ['JavaScript & TS', 'HTML', 'CSS'],
   frameworks: ['React', 'Next.JS', 'Astro', 'Node'],
 }
