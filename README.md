@@ -4,7 +4,7 @@
 ```js
 const juanoa = {
   job: {
-    title: 'Frontend Engineer',
+    title: 'Founder Engineer',
     company: 'MITO',
     since: 'oct. 2025'
   },
